@@ -10,6 +10,7 @@ RUN apt-get update && apt-get install -y \
 RUN pip install jupyter
 RUN pip install openai
 RUN pip install scikit-llm
+RUN pip install seaborn
 
 # Set up the working directory
 WORKDIR /workspace
