@@ -1,93 +1,3 @@
-﻿The Project Gutenberg eBook of Mansfield Park
-    
-This ebook is for the use of anyone anywhere in the United States and
-most other parts of the world at no cost and with almost no restrictions
-whatsoever. You may copy it, give it away or re-use it under the terms
-of the Project Gutenberg License included with this ebook or online
-at www.gutenberg.org. If you are not located in the United States,
-you will have to check the laws of the country where you are located
-before using this eBook.
-
-Title: Mansfield Park
-
-
-Author: Jane Austen
-
-Release date: June 1, 1994 [eBook #141]
-                Most recently updated: September 20, 2022
-
-Language: English
-
-
-
-*** START OF THE PROJECT GUTENBERG EBOOK MANSFIELD PARK ***
-
-
-
-MANSFIELD PARK
-
-(1814)
-
-By Jane Austen
-
-
-Contents
-
-   CHAPTER I
-   CHAPTER II
-   CHAPTER III
-   CHAPTER IV
-   CHAPTER V
-   CHAPTER VI
-   CHAPTER VII
-   CHAPTER VIII
-   CHAPTER IX
-   CHAPTER X
-   CHAPTER XI
-   CHAPTER XII
-   CHAPTER XIII
-   CHAPTER XIV
-   CHAPTER XV
-   CHAPTER XVI
-   CHAPTER XVII
-   CHAPTER XVIII
-   CHAPTER XIX
-   CHAPTER XX
-   CHAPTER XXI
-   CHAPTER XXII
-   CHAPTER XXIII
-   CHAPTER XXIV
-   CHAPTER XXV
-   CHAPTER XXVI
-   CHAPTER XXVII
-   CHAPTER XXVIII
-   CHAPTER XXIX
-   CHAPTER XXX
-   CHAPTER XXXI
-   CHAPTER XXXII
-   CHAPTER XXXIII
-   CHAPTER XXXIV
-   CHAPTER XXXV
-   CHAPTER XXXVI
-   CHAPTER XXXVII
-   CHAPTER XXXVIII
-   CHAPTER XXXIX
-   CHAPTER XL
-   CHAPTER XLI
-   CHAPTER XLII
-   CHAPTER XLIII
-   CHAPTER XLIV
-   CHAPTER XLV
-   CHAPTER XLVI
-   CHAPTER XLVII
-   CHAPTER XLVIII
-
-
-
-
-CHAPTER I
-
-
 About thirty years ago Miss Maria Ward, of Huntingdon, with only seven
 thousand pounds, had the good luck to captivate Sir Thomas Bertram, of
 Mansfield Park, in the county of Northampton, and to be thereby raised
@@ -1566,7 +1476,7 @@ anything which Miss Crawford’s habits made her likely to feel. She
 acknowledged, however, that the Mr. Bertrams were very fine young men,
 that two such young men were not often seen together even in London,
 and that their manners, particularly those of the eldest, were very
-good. _He_ had been much in London, and had more liveliness and
+good. He had been much in London, and had more liveliness and
 gallantry than Edmund, and must, therefore, be preferred; and, indeed,
 his being the eldest was another strong claim. She had felt an early
 presentiment that she _should_ like the eldest best. She knew it was

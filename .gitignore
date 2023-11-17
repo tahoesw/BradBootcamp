@@ -1,0 +1,8 @@
+.DS_Store
+PyTorchNamesClassifier/.ipynb_checkpoints/
+PyTorch60MinuteBlitz/.DS_Store
+AuthorClassifier/zzz.csv
+AuthorClassifier/texts/F. Scott Fitzgerald/.DS_Store
+AuthorClassifier/.ipynb_checkpoints/
+HuggingFaceTextClassifier/.idea/*
+HuggingFaceTextClassifier/.ipynb_checkpoints/*

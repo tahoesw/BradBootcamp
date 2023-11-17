@@ -1,108 +1,3 @@
-﻿The Project Gutenberg eBook of Emma
-    
-This ebook is for the use of anyone anywhere in the United States and
-most other parts of the world at no cost and with almost no restrictions
-whatsoever. You may copy it, give it away or re-use it under the terms
-of the Project Gutenberg License included with this ebook or online
-at www.gutenberg.org. If you are not located in the United States,
-you will have to check the laws of the country where you are located
-before using this eBook.
-
-Title: Emma
-
-
-Author: Jane Austen
-
-Release date: August 1, 1994 [eBook #158]
-                Most recently updated: December 14, 2021
-
-Language: English
-
-
-
-*** START OF THE PROJECT GUTENBERG EBOOK EMMA ***
-
-
-
-Emma
-
-by Jane Austen
-
-
-Contents
-
- VOLUME I.
- CHAPTER I.
- CHAPTER II.
- CHAPTER III.
- CHAPTER IV.
- CHAPTER V.
- CHAPTER VI.
- CHAPTER VII.
- CHAPTER VIII.
- CHAPTER IX.
- CHAPTER X.
- CHAPTER XI.
- CHAPTER XII.
- CHAPTER XIII.
- CHAPTER XIV.
- CHAPTER XV.
- CHAPTER XVI.
- CHAPTER XVII.
- CHAPTER XVIII.
-
- VOLUME II.
- CHAPTER I.
- CHAPTER II.
- CHAPTER III.
- CHAPTER IV.
- CHAPTER V.
- CHAPTER VI.
- CHAPTER VII.
- CHAPTER VIII.
- CHAPTER IX.
- CHAPTER X.
- CHAPTER XI.
- CHAPTER XII.
- CHAPTER XIII.
- CHAPTER XIV.
- CHAPTER XV.
- CHAPTER XVI.
- CHAPTER XVII.
- CHAPTER XVIII.
-
- VOLUME III.
- CHAPTER I.
- CHAPTER II.
- CHAPTER III.
- CHAPTER IV.
- CHAPTER V.
- CHAPTER VI.
- CHAPTER VII.
- CHAPTER VIII.
- CHAPTER IX.
- CHAPTER X.
- CHAPTER XI.
- CHAPTER XII.
- CHAPTER XIII.
- CHAPTER XIV.
- CHAPTER XV.
- CHAPTER XVI.
- CHAPTER XVII.
- CHAPTER XVIII.
- CHAPTER XIX.
-
-
-
-
-VOLUME I
-
-
-
-
-CHAPTER I
-
-
 Emma Woodhouse, handsome, clever, and rich, with a comfortable home and
 happy disposition, seemed to unite some of the best blessings of
 existence; and had lived nearly twenty-one years in the world with very
@@ -162,7 +57,7 @@ peculiarly interested in herself, in every pleasure, every scheme of
 hers—one to whom she could speak every thought as it arose, and who had
 such an affection for her as could never find fault.
 
-How was she to bear the change?—It was true that her friend was going
+How was she to bear the change? It was true that her friend was going
 only half a mile from them; but Emma was aware that great must be the
 difference between a Mrs. Weston, only half a mile from them, and a
 Miss Taylor in the house; and with all her advantages, natural and
