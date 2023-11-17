@@ -7,6 +7,7 @@ AuthorClassifier/.ipynb_checkpoints/
 HuggingFaceTextClassifier/.idea/*
 HuggingFaceTextClassifier/.ipynb_checkpoints/*
 AuthorClassifier/.DS_Store
+AuthorClassifier/texts/.DS_Store
 PyTorchNamesClassifier/.idea/*
 AuthorClassifier/.idea/*
 PyTorch60MinuteBlitz/.idea/*
