@@ -8,3 +8,5 @@ HuggingFaceTextClassifier/.idea/*
 HuggingFaceTextClassifier/.ipynb_checkpoints/*
 AuthorClassifier/.DS_Store
 PyTorchNamesClassifier/.idea/*
+AuthorClassifier/.idea/*
+PyTorch60MinuteBlitz/.idea/*
